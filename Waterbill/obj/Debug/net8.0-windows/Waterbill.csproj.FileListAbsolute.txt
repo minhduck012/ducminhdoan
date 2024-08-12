@@ -1,0 +1,17 @@
+D:\Waterbill\Waterbill\bin\Debug\net8.0-windows\Waterbill.exe
+D:\Waterbill\Waterbill\bin\Debug\net8.0-windows\Waterbill.deps.json
+D:\Waterbill\Waterbill\bin\Debug\net8.0-windows\Waterbill.runtimeconfig.json
+D:\Waterbill\Waterbill\bin\Debug\net8.0-windows\Waterbill.dll
+D:\Waterbill\Waterbill\bin\Debug\net8.0-windows\Waterbill.pdb
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.Form1.resources
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.csproj.GenerateResource.cache
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.AssemblyInfoInputs.cache
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.AssemblyInfo.cs
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.csproj.CoreCompileInputs.cache
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.dll
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\refint\Waterbill.dll
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.pdb
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.genruntimeconfig.cache
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\ref\Waterbill.dll
+D:\Waterbill\Waterbill\obj\Debug\net8.0-windows\Waterbill.Form3.resources
